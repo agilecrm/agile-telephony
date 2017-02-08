@@ -1,12 +1,13 @@
 # **Asterisk WebRTC with AgileCRM**
 
-This article aims at setting up of Asterisk WebRTC widget in AgileCRM.
+This article helps user to configuring and use Asterisk WebRTC widget in AgileCRM.
 
 **Prerequisites**
 
 Asterisk must be installed and running successfully.
 
-##Step1: Configure Asterisk Server##
+
+##Configure Asterisk Server##
 
 ###A.Enabling Http on Asterisk###
 
@@ -79,7 +80,7 @@ Parameters:
 *if duration is greater than 0,Call log is displayed otherwise automatic call log is created with Failed Status
 
 
-##Step2: Asterisk Settings in AgileCRM##
+##Asterisk Settings in AgileCRM##
 
 Use Widget section under preferences to configure asterisk.Following section wise information need to be updated.
 
@@ -107,7 +108,7 @@ Use Widget section under preferences to configure asterisk.Following section wis
 - `Priority`: Outbound call priority
 - `Timeout`: Timeout duration in seconds.
 
-##Step3: Install Chrome Extension##
+##Install Chrome Extension##
 
 Install Chrome Extension to make outbound calls
 

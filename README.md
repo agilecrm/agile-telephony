@@ -1,12 +1,12 @@
 #Call Management in AgileCRM#
 
-##Setup Widget##
+##Setting up Widget##
 
 ##Inbound Call##
 	
 - Ringing: 
 
-Call noty is displayed when inbound call started ringing.
+Call noty is displayed when there is aninbound call.
 
 <img src="https://cloud.githubusercontent.com/assets/15827609/22747244/8f90d2a8-ee4c-11e6-8dc1-24dd6e65f4dc.png" width="150">
 
@@ -32,6 +32,14 @@ In contact view,Click on Asterisk icon against phone number for click to call.
 
 <img src="https://cloud.githubusercontent.com/assets/15827609/22746500/e583c344-ee49-11e6-8f54-e086a13a91f3.png" width="150">
 
+##DailPad##
+
+##Call Transfer##
+
+##Call Conference##
+
+##Call Campaings##
+
 ##Call History##
 
 ###Call log###
@@ -42,6 +50,7 @@ In contact view,Click on Asterisk icon against phone number for click to call.
 
 ##Call Reports##
 
+###Call Activities###
 ###Call by User###
 ###Average Call Duration###
 ###Call logs###

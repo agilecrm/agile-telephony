@@ -6,7 +6,7 @@
 	
 - Ringing: 
 
-Call noty is displayed when there is aninbound call.
+Call noty is displayed when there is an inbound call.
 
 <img src="https://cloud.githubusercontent.com/assets/15827609/22747244/8f90d2a8-ee4c-11e6-8dc1-24dd6e65f4dc.png" width="150">
 
@@ -32,7 +32,7 @@ In contact view,Click on Asterisk icon against phone number for click to call.
 
 <img src="https://cloud.githubusercontent.com/assets/15827609/22746500/e583c344-ee49-11e6-8f54-e086a13a91f3.png" width="150">
 
-##DailPad##
+##Dialpad##
 
 ##Call Transfer##
 

@@ -1,11 +1,18 @@
+
 #Call Management in AgileCRM#
 
+#####Table of Contents  
+[Configure Widget](#ConfigureWidget)  
+[Receive Inbound Call](#ReceiveInboundCall)  
+[Make Outboud Call](#MakeOutboudCall)  
+
+<a name="ConfigureWidget"/>
 ##Configure Widget##
 
 Telephony Widget is configured under Preferences section.
 
 <img src="https://cloud.githubusercontent.com/assets/15827609/22871078/9020e192-f1d3-11e6-82d9-b01350b7867d.png" width="150">
- 
+<a name="ReceiveInboundCall"/>
 ##Receive Inbound Call##
 
 When Inbound Call is received,Call notification is shown.Matched Contact Name is displayed,based on the inbound number searched.
@@ -22,6 +29,7 @@ When Inbound Call is received,Call notification is shown.Matched Contact Name is
 
 <img src="https://cloud.githubusercontent.com/assets/15827609/22877786/0486f412-f1fd-11e6-934f-37f9c62b025a.png" width="150">
 
+<a name="MakeOutboudCall"/>
 ##Make Outboud Call##
 
 ###Click to Call###

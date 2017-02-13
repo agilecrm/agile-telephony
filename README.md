@@ -4,6 +4,7 @@
 #####Table of Contents  
 [Configure Widget](#ConfigureWidget)  
 [Receive Inbound Call](#ReceiveInboundCall)  
+*[Call notification](#Callnotification)  
 [Make Outboud Call](#MakeOutboudCall)  
 [Dialpad](#Dialpad)  
 [Call Transfer](#CallTransfer)  
@@ -24,7 +25,7 @@ Telephony Widget is configured under Preferences section.
 ##Receive Inbound Call##
 
 When Inbound Call is received,Call notification is shown.Matched Contact Name is displayed,based on the inbound number searched.
-
+<a name="Callnotification"/>
 ###Call notification
 
 - Call notificatoon details include Contact name.

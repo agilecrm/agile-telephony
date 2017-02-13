@@ -5,6 +5,14 @@
 [Configure Widget](#ConfigureWidget)  
 [Receive Inbound Call](#ReceiveInboundCall)  
 [Make Outboud Call](#MakeOutboudCall)  
+[Dialpad](#Dialpad)  
+[Call Transfer](#CallTransfer)  
+[Call Conference](#CallConference)  
+[Voice Mail Drops](#VoiceMailDrops)  
+[Call Campaings](#CallCampaings)  
+[Call History](#CallHistory)  
+[Call Reports](#CallReports)  
+[Dashboard Reports](#DashboardReports)  
 
 <a name="ConfigureWidget"/>
 ##Configure Widget##
@@ -52,26 +60,32 @@ Call log is displayed when call is hangup.
 
 <img src="https://cloud.githubusercontent.com/assets/15827609/22878690/c3ebfcaa-f200-11e6-83ea-5af502882fb0.png" width="150">
 
+<a name="Dialpad"/>
 ##Dialpad##
 
 <img src="https://cloud.githubusercontent.com/assets/15827609/22878773/0709bb80-f201-11e6-988e-ccf3a594ceb2.png" width="150">
 
+<a name="CallTransfer"/>
 ##Call Transfer##
 
 <img src="https://cloud.githubusercontent.com/assets/15827609/22878929/a8b641ce-f201-11e6-94a8-39f5574d5064.png" width="150">
 
+<a name="CallConference"/>
 ##Call Conference##
 
 <img src="https://cloud.githubusercontent.com/assets/15827609/22878870/6e1ec126-f201-11e6-8d6d-6a7b9ae68814.png" width="150">
 
+<a name="VoiceMailDrops"/>
 ##Voice Mail Drops##
 
 <img src="https://cloud.githubusercontent.com/assets/15827609/22879081/50b9b45a-f202-11e6-9459-18fdcd024bec.png" width="150">
 
+<a name="CallCampaings"/>
 ##Call Campaings##
 
 <img src="https://cloud.githubusercontent.com/assets/15827609/22878980/d792ecfe-f201-11e6-9908-455307f494e5.png" width="150">
 
+<a name="CallHistory"/>
 ##Call History##
 
 ###Call log from Provider###
@@ -86,6 +100,7 @@ Call log is displayed when call is hangup.
 
 <img src="https://cloud.githubusercontent.com/assets/15827609/22880296/aaf9c28e-f207-11e6-9364-ceda092c11a3.png" width="150">
 
+<a name="CallReports"/>
 ##Call Reports##
 
 ###Call by User###
@@ -108,6 +123,7 @@ Call log is displayed when call is hangup.
 
 <img src="https://cloud.githubusercontent.com/assets/15827609/22882330/8e897a32-f210-11e6-8d2f-0824380897b8.png" width="150">
 
+<a name="DashboardReports"/>
 ##Dashboard Reports##
 
 ###Calls Dashlet###

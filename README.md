@@ -1,7 +1,11 @@
 #Call Management in AgileCRM#
 
-##Setting up Widget##
+##Configure Widget##
 
+Under preferences,Widget can be configured.
+
+<img src="https://cloud.githubusercontent.com/assets/15827609/22871078/9020e192-f1d3-11e6-82d9-b01350b7867d.png" width="150"></img>
+ 
 ##Receive Inbound Call##
 	
 - Ringing: 

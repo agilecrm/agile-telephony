@@ -8,15 +8,15 @@ Under preferences,Widget can be configured.
  
 ##Receive Inbound Call##
 	
-- Ringing: 
+###Ringing### 
 
-Call notificatoon is displayed when there is an inbound call.
+- Call notificatoon is displayed when there is an inbound call.
 
 <img src="https://cloud.githubusercontent.com/assets/15827609/22747244/8f90d2a8-ee4c-11e6-8dc1-24dd6e65f4dc.png" width="150">
 
-- Hangup: 
+###Hangup###
 
-Call log is displayed when call is hangup.
+- Call log is displayed when call is hangup.
 
 <img src="https://cloud.githubusercontent.com/assets/15827609/22747330/cc8b697a-ee4c-11e6-86e5-c224b2df8a41.png" width="150">
 

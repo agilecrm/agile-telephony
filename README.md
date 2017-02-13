@@ -4,7 +4,6 @@
 #####Table of Contents  
 [Configure Widget](#ConfigureWidget)  
 [Receive Inbound Call](#ReceiveInboundCall)  
-[Call notification](#Callnotification)  
 [Make Outboud Call](#MakeOutboudCall)  
 [Dialpad](#Dialpad)  
 [Call Transfer](#CallTransfer)  

@@ -42,17 +42,30 @@ Call Popup is displayed when outbound call is made.
 
 Call log is displayed when call is hangup.
 
-<img src="https://cloud.githubusercontent.com/assets/15827609/22878530/2ea7950a-f200-11e6-9148-20e095f41aca.png" width="150">
+<img src="https://cloud.githubusercontent.com/assets/15827609/22878690/c3ebfcaa-f200-11e6-83ea-5af502882fb0.png" width="150">
 
 ##Dialpad##
 
+<img src="https://cloud.githubusercontent.com/assets/15827609/22878773/0709bb80-f201-11e6-988e-ccf3a594ceb2.png" width="150">
+
 ##Call Transfer##
+
+<img src="https://cloud.githubusercontent.com/assets/15827609/22878929/a8b641ce-f201-11e6-94a8-39f5574d5064.png" width="150">
 
 ##Call Conference##
 
+<img src="https://cloud.githubusercontent.com/assets/15827609/22878870/6e1ec126-f201-11e6-8d6d-6a7b9ae68814.png" width="150">
+
+##Voice Mails##
+
+<img src="https://cloud.githubusercontent.com/assets/15827609/22879081/50b9b45a-f202-11e6-9459-18fdcd024bec.png" width="150">
+
 ##Call Campaings##
 
+<img src="https://cloud.githubusercontent.com/assets/15827609/22878980/d792ecfe-f201-11e6-9908-455307f494e5.png" width="150">
+
 ##Call History##
+
 
 ###Call log###
 

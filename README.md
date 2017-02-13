@@ -66,20 +66,44 @@ Call log is displayed when call is hangup.
 
 ##Call History##
 
+###Call log from Provider###
 
-###Call log###
+<img src="https://cloud.githubusercontent.com/assets/15827609/22880187/45f4aade-f207-11e6-8c9a-d2543cd45ba6.png" width="150">
 
-###Timeline###
+###Timeline View###
+
+<img src="https://cloud.githubusercontent.com/assets/15827609/22880268/8d1175aa-f207-11e6-8c6b-643c4c426f14.png" width="150">
 
 ###Call Notes###
+
+<img src="https://cloud.githubusercontent.com/assets/15827609/22880296/aaf9c28e-f207-11e6-9364-ceda092c11a3.png" width="150">
 
 ##Call Reports##
 
 ###Call Activities###
+
+<img src="https://cloud.githubusercontent.com/assets/15827609/22880340/cc7d8dfa-f207-11e6-81a2-c5e8c8ee5ce5.png" width="150">
+
 ###Call by User###
+
+<img src="https://cloud.githubusercontent.com/assets/15827609/22880380/f20beea4-f207-11e6-839d-041ac79136bf.png" width="150">
+
 ###Average Call Duration###
+
+<img src="https://cloud.githubusercontent.com/assets/15827609/22880187/45f4aade-f207-11e6-8c9a-d2543cd45ba6.png" width="150">
+
 ###Call logs###
+
+<img src="https://cloud.githubusercontent.com/assets/15827609/22880187/45f4aade-f207-11e6-8c9a-d2543cd45ba6.png" width="150">
+
 ###Call Outcomes###
+
+<img src="https://cloud.githubusercontent.com/assets/15827609/22880187/45f4aade-f207-11e6-8c9a-d2543cd45ba6.png" width="150">
+
 ###Call Report-Time Based###
+
+<img src="https://cloud.githubusercontent.com/assets/15827609/22880187/45f4aade-f207-11e6-8c9a-d2543cd45ba6.png" width="150">
+
 ###User Activties###
 
+<img src="https://cloud.githubusercontent.com/assets/15827609/22880187/45f4aade-f207-11e6-8c9a-d2543cd45ba6.png" width="150">

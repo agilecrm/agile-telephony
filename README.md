@@ -20,13 +20,15 @@ When Inbound Call is received,Call notification is shown.Matched Contact Name is
 
 - Call log is displayed when call is hangup.
 
-<img src="https://cloud.githubusercontent.com/assets/15827609/22747330/cc8b697a-ee4c-11e6-86e5-c224b2df8a41.png" width="150">
+<img src="https://cloud.githubusercontent.com/assets/15827609/22877786/0486f412-f1fd-11e6-934f-37f9c62b025a.png" width="150">
 
 ##Make Outboud Call##
 
-- **Click to Call**
+###Click to Call###
 
-In contact view,Click on Asterisk icon against phone number for click to call.
+Configured Provider Icon is displayed,when moused is placed on Phone number in Contact Info section of Contact View.
+
+Click on Icon to make call.
 
 <img src="https://cloud.githubusercontent.com/assets/15827609/22746110/ce8e6fa0-ee48-11e6-9349-6a20f33ea2c9.png" width="150">
 

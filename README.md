@@ -2,21 +2,21 @@
 
 ##Configure Widget##
 
-Telephony Widget can be configured under Preferences section.
+Telephony Widget is configured under Preferences section.
 
 <img src="https://cloud.githubusercontent.com/assets/15827609/22871078/9020e192-f1d3-11e6-82d9-b01350b7867d.png" width="150">
  
 ##Receive Inbound Call##
 
-Inbound Call is received as notification.Contact is searched based on number and displayed in Call notification.
+When Inbound Call is received,Call notification is displayed.Contact name is displayed,if matched based inbound number.
 
-###Ringing
+###Call notification
 
-- Call notificatoon is displayed when there is an inbound call.
+- Call notificatoon is shown when there is an inbound call.
 
 <img src="https://cloud.githubusercontent.com/assets/15827609/22747244/8f90d2a8-ee4c-11e6-8dc1-24dd6e65f4dc.png" width="150">
 
-###Hangup###
+###Call log###
 
 - Call log is displayed when call is hangup.
 

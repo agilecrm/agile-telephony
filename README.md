@@ -80,30 +80,28 @@ Call log is displayed when call is hangup.
 
 ##Call Reports##
 
-###Call Activities###
-
-<img src="https://cloud.githubusercontent.com/assets/15827609/22880340/cc7d8dfa-f207-11e6-81a2-c5e8c8ee5ce5.png" width="150">
-
 ###Call by User###
 
 <img src="https://cloud.githubusercontent.com/assets/15827609/22880380/f20beea4-f207-11e6-839d-041ac79136bf.png" width="150">
 
 ###Average Call Duration###
 
-<img src="https://cloud.githubusercontent.com/assets/15827609/22880187/45f4aade-f207-11e6-8c9a-d2543cd45ba6.png" width="150">
+<img src="https://cloud.githubusercontent.com/assets/15827609/22882225/18764442-f210-11e6-9dfd-1beada58726a.png" width="150">
 
 ###Call logs###
 
-<img src="https://cloud.githubusercontent.com/assets/15827609/22880187/45f4aade-f207-11e6-8c9a-d2543cd45ba6.png" width="150">
+<img src="https://cloud.githubusercontent.com/assets/15827609/22880340/cc7d8dfa-f207-11e6-81a2-c5e8c8ee5ce5.png" width="150">
 
 ###Call Outcomes###
 
-<img src="https://cloud.githubusercontent.com/assets/15827609/22880187/45f4aade-f207-11e6-8c9a-d2543cd45ba6.png" width="150">
+<img src="https://cloud.githubusercontent.com/assets/15827609/22882305/6d4f774a-f210-11e6-8e2d-c2f80956d030.png" width="150">
 
 ###Call Report-Time Based###
 
-<img src="https://cloud.githubusercontent.com/assets/15827609/22880187/45f4aade-f207-11e6-8c9a-d2543cd45ba6.png" width="150">
+<img src="https://cloud.githubusercontent.com/assets/15827609/22882330/8e897a32-f210-11e6-8d2f-0824380897b8.png" width="150">
 
-###User Activties###
+##Dashboard Reports##
 
-<img src="https://cloud.githubusercontent.com/assets/15827609/22880187/45f4aade-f207-11e6-8c9a-d2543cd45ba6.png" width="150">
+###Calls Dashlet###
+
+<img src="https://cloud.githubusercontent.com/assets/15827609/22882469/2f7d0706-f211-11e6-9663-3ee50fc48fa7.png" width="150">

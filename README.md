@@ -2,13 +2,13 @@
 
 ##Configure Widget##
 
-Under preferences,Widget can be configured.
+Telephony Widget can be configured under Preferences section.
 
 <img src="https://cloud.githubusercontent.com/assets/15827609/22871078/9020e192-f1d3-11e6-82d9-b01350b7867d.png" width="150">
  
 ##Receive Inbound Call##
 
-Inbound Call is received as notification in AgileCRM Application.	
+Inbound Call is received as notification.Contact is searched based on number and displayed in Call notification.
 
 ###Ringing
 

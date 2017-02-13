@@ -36,11 +36,13 @@ Click on Icon to make call.
 
 Call Popup is displayed when outbound call is made.
 
-<img src="https://cloud.githubusercontent.com/assets/15827609/22746316/605b1eba-ee49-11e6-89ba-7a1c7ca0128d.png" width="150">
+<img src="https://cloud.githubusercontent.com/assets/15827609/22878553/4cf629b8-f200-11e6-8f6e-6d231598ab2c.png" width="150">
 
-- **Hangup**: Call log is displayed when call is hangup.
+###Call log###
 
-<img src="https://cloud.githubusercontent.com/assets/15827609/22746500/e583c344-ee49-11e6-8f54-e086a13a91f3.png" width="150">
+Call log is displayed when call is hangup.
+
+<img src="https://cloud.githubusercontent.com/assets/15827609/22878530/2ea7950a-f200-11e6-9148-20e095f41aca.png" width="150">
 
 ##Dialpad##
 

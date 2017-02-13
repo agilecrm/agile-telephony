@@ -56,7 +56,7 @@ Call log is displayed when call is hangup.
 
 <img src="https://cloud.githubusercontent.com/assets/15827609/22878870/6e1ec126-f201-11e6-8d6d-6a7b9ae68814.png" width="150">
 
-##Voice Mails##
+##Voice Mail Drops##
 
 <img src="https://cloud.githubusercontent.com/assets/15827609/22879081/50b9b45a-f202-11e6-9459-18fdcd024bec.png" width="150">
 

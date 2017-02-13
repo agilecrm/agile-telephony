@@ -4,11 +4,13 @@
 
 Under preferences,Widget can be configured.
 
-<img src="https://cloud.githubusercontent.com/assets/15827609/22871078/9020e192-f1d3-11e6-82d9-b01350b7867d.png" width="150"></img>
+<img src="https://cloud.githubusercontent.com/assets/15827609/22871078/9020e192-f1d3-11e6-82d9-b01350b7867d.png" width="150">
  
 ##Receive Inbound Call##
-	
-###Ringing### 
+
+Inbound Call is received as notification in AgileCRM Application.	
+
+###Ringing
 
 - Call notificatoon is displayed when there is an inbound call.
 

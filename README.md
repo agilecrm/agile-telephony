@@ -8,13 +8,13 @@ Telephony Widget is configured under Preferences section.
  
 ##Receive Inbound Call##
 
-When Inbound Call is received,Call notification is displayed.Contact name is displayed,if matched based inbound number.
+When Inbound Call is received,Call notification is shown.Matched Contact Name is displayed,based on the inbound number searched.
 
 ###Call notification
 
-- Call notificatoon is shown when there is an inbound call.
+- Call notificatoon details include Contact name.
 
-<img src="https://cloud.githubusercontent.com/assets/15827609/22747244/8f90d2a8-ee4c-11e6-8dc1-24dd6e65f4dc.png" width="150">
+<img src="https://cloud.githubusercontent.com/assets/15827609/22874646/42329ab0-f1ed-11e6-95ec-4f8063ce2153.png" width="150">
 
 ###Call log###
 

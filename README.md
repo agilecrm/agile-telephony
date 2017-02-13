@@ -2,18 +2,18 @@
 #Call Management in AgileCRM#
 
 #####Table of Contents  
-*[Configure Widget](#ConfigureWidget)  
-*[Receive Inbound Call](#ReceiveInboundCall)  
+[Configure Widget](#ConfigureWidget)  
+[Receive Inbound Call](#ReceiveInboundCall)  
 [Call notification](#Callnotification)  
-*[Make Outboud Call](#MakeOutboudCall)  
-*[Dialpad](#Dialpad)  
-*[Call Transfer](#CallTransfer)  
-*[Call Conference](#CallConference)  
-*[Voice Mail Drops](#VoiceMailDrops)  
-*[Call Campaings](#CallCampaings)  
-*[Call History](#CallHistory)  
-*[Call Reports](#CallReports)  
-*[Dashboard Reports](#DashboardReports)  
+[Make Outboud Call](#MakeOutboudCall)  
+[Dialpad](#Dialpad)  
+[Call Transfer](#CallTransfer)  
+[Call Conference](#CallConference)  
+[Voice Mail Drops](#VoiceMailDrops)  
+[Call Campaings](#CallCampaings)  
+[Call History](#CallHistory)  
+[Call Reports](#CallReports)  
+[Dashboard Reports](#DashboardReports)  
 
 <a name="ConfigureWidget"/>
 ##Configure Widget##

@@ -5,7 +5,7 @@
 [Configure Telephony Widgets](#ConfigureWidget)  
 [Receive Calls](#ReceiveInboundCall)  
 [Make Calls](#MakeOutboudCall)  
-[Call Directly using Dialpad](#Dialpad)  
+[Call Directly with Dialpad](#Dialpad)  
 [Transfer Calls to Agents](#CallTransfer)  
 [Conference Calls with Contacts](#CallConference)  
 [Drop Voice Mails](#VoiceMailDrops)  

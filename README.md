@@ -2,7 +2,7 @@
 #Call Management in AgileCRM#
 
 #####Table of Contents  
-[Configure Widget](#ConfigureWidget)  
+[Configure Telephony Widget](#ConfigureWidget)  
 [Receive Inbound Call](#ReceiveInboundCall)  
 [Make Outboud Call](#MakeOutboudCall)  
 [Dialpad](#Dialpad)  

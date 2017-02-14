@@ -13,7 +13,7 @@
 [View Call History](#CallHistory)  
 [Analayse Call Reports](#CallReports)  
 [Consolidated Dashboard Reports](#DashboardReports)  
-[Use your phone for calling](#Useyourphoneforcalling)  
+
 
 <a name="ConfigureWidget"/>
 ##Configure Widget##

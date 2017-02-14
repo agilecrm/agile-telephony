@@ -7,7 +7,7 @@
 [Make Calls](#MakeOutboudCall)  
 [Call Directly with Dialpad](#Dialpad)  
 [Transfer Calls to Agents](#CallTransfer)  
-[Conference Calls with Contacts](#CallConference)  
+[Conference Calls with Contacts/Agents](#CallConference)  
 [Drop Voice Mails](#VoiceMailDrops)  
 [Start Call Campaings](#CallCampaings)  
 [View Call History](#CallHistory)  

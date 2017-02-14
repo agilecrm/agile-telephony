@@ -25,7 +25,9 @@ Telephony Widgets can be configured in Preferences section.
 <a name="ReceiveInboundCall"/>
 ##Receive Inbound Call##
 
-When call is received,Call notification is shown.Matched Contact Name is displayed,based on the inbound number searched.
+- Notification is displayed when call is received.
+- Based on inbound number,contact name is displayed.
+
 <a name="Callnotification"/>
 ###Call notification
 

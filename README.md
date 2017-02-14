@@ -2,13 +2,13 @@
 #Telephony using AgileCRM#
 
 #####Table of Contents  
-[Configure Telephony Widget](#ConfigureWidget)  
-[Receive Inbound Call](#ReceiveInboundCall)  
-[Make Outboud Call](#MakeOutboudCall)  
+[Configure Telephony Widgets](#ConfigureWidget)  
+[Receive Calls](#ReceiveInboundCall)  
+[Make Calls](#MakeOutboudCall)  
 [Call Directly using Dialpad](#Dialpad)  
-[Transfer Calls](#CallTransfer)  
-[Conference Calls](#CallConference)  
-[Drops Voice Mails](#VoiceMailDrops)  
+[Transfer Calls to Agents](#CallTransfer)  
+[Conference Calls with Contacts](#CallConference)  
+[Drop Voice Mails](#VoiceMailDrops)  
 [Start Call Campaings](#CallCampaings)  
 [View Call History](#CallHistory)  
 [Analayse Call Reports](#CallReports)  

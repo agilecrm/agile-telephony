@@ -1,5 +1,5 @@
 
-#Telephony through AgileCRM#
+#Telephony using AgileCRM#
 
 #####Table of Contents  
 [Configure Telephony Widget](#ConfigureWidget)  

@@ -39,7 +39,7 @@ Telephony Widgets can be configured in Preferences section.
 ###Call log###
 
 - Call Log is displayed after call answered and hangup.
-- Call Note is automatically created for non Answered calls like busy,failed,no answer.
+- Call Note is automatically created for non Answered calls like Busy,Failed,No-Answer.
 
 <img src="https://cloud.githubusercontent.com/assets/15827609/22877786/0486f412-f1fd-11e6-934f-37f9c62b025a.png" width="700">
 

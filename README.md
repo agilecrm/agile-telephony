@@ -5,14 +5,14 @@
 [Configure Telephony Widget](#ConfigureWidget)  
 [Receive Inbound Call](#ReceiveInboundCall)  
 [Make Outboud Call](#MakeOutboudCall)  
-[Dialpad](#Dialpad)  
-[Call Transfer](#CallTransfer)  
-[Call Conference](#CallConference)  
-[Voice Mail Drops](#VoiceMailDrops)  
-[Call Campaings](#CallCampaings)  
-[Call History](#CallHistory)  
-[Call Reports](#CallReports)  
-[Dashboard Reports](#DashboardReports)  
+[Call Directly using Dialpad](#Dialpad)  
+[Transfer Calls](#CallTransfer)  
+[Conference Calls](#CallConference)  
+[Drops Voice Mails](#VoiceMailDrops)  
+[Start Call Campaings](#CallCampaings)  
+[View Call History](#CallHistory)  
+[Analayse Call Reports](#CallReports)  
+[Consolidated Dashboard Reports](#DashboardReports)  
 
 <a name="ConfigureWidget"/>
 ##Configure Widget##

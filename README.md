@@ -29,15 +29,17 @@ Telephony Widgets can be configured in Preferences section.
 - Based on inbound number,contact name is displayed.
 
 <a name="Callnotification"/>
-###Call notification
+###Inbound notification
 
-- Call notificatoon details include Contact name.
+- Inbound call can be answered or ignored.
+- Notes can be captured while having call.
 
 <img src="https://cloud.githubusercontent.com/assets/15827609/22874646/42329ab0-f1ed-11e6-95ec-4f8063ce2153.png" width="700">
 
 ###Call log###
 
-- Call log is displayed when call is hangup.
+- Call Log is displayed after call answered and hangup.
+- Call Note is automatically created for non Answered calls like busy,failed,no answer.
 
 <img src="https://cloud.githubusercontent.com/assets/15827609/22877786/0486f412-f1fd-11e6-934f-37f9c62b025a.png" width="700">
 
@@ -46,9 +48,9 @@ Telephony Widgets can be configured in Preferences section.
 
 ###Click to Call###
 
-Configured Provider Icon is displayed,when moused is placed on Phone number in Contact Info section of Contact View.
-
-Click on Icon to make call.
+- Calls can be made using Phone number in Contact Info section of Contact View.
+- When mouse in placed on Phone number,Configured Provider Icons are displayed.
+- Click on Icon to make call.
 
 <img src="https://cloud.githubusercontent.com/assets/15827609/22878177/bc7d2824-f1fe-11e6-815c-27a0039fea7a.png" width="700">
 

@@ -3,7 +3,6 @@
 
 #####Table of Contents  
 [Introduction](#Introduction)
-
 [Configure Asterisk Server](#ConfigureWidget)  
 [Receive Calls](#ReceiveInboundCall)  
 [Make Calls](#MakeOutboudCall)  

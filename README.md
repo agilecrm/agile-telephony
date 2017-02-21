@@ -1,15 +1,12 @@
 
-#Telephony using AgileCRM#
+#Use your phone to make calls using AgileCRM#
 
 #####Table of Contents  
-[Configure Telephony Widgets](#ConfigureWidget)  
+[Introduction](#Introduction)
+[Configure Asterisk Server](#ConfigureWidget)  
 [Receive Calls](#ReceiveInboundCall)  
 [Make Calls](#MakeOutboudCall)  
 [Call Directly with Dialpad](#Dialpad)  
-[Transfer Calls to Agents](#CallTransfer)  
-[Conference Calls with Contacts/Agents](#CallConference)  
-[Drop Voice Mails](#VoiceMailDrops)  
-[Start Call Campaings](#CallCampaings)  
 [View Call History](#CallHistory)  
 [Analayse Call Reports](#CallReports)  
 [Consolidated Dashboard Reports](#DashboardReports)  

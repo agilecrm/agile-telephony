@@ -2,7 +2,7 @@
 #Use phone to make calls using AgileCRM#
 
 #####Table of Contents  
-[Introduction](#Introduction)
+[Introduction](#Introduction) 
 [Configure Asterisk Server](#ConfigureWidget)  
 [Receive Calls](#ReceiveInboundCall)  
 [Make Calls](#MakeOutboudCall)  
@@ -12,7 +12,7 @@
 [Consolidated Dashboard Reports](#DashboardReports)  
 
 <a name="Introduction"/>
-##Introduction
+##Introduction##
 AgileCRM automatically track calls made using any hardphone using Asterisk Widget.
 
 

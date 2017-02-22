@@ -12,7 +12,7 @@
 [Consolidated Dashboard Reports](#DashboardReports)  
 
 <a name="Introduction"/>
-##Introduction##
+##Introduction
 AgileCRM automatically track calls made using any hardphone using Asterisk Widget.
 
 

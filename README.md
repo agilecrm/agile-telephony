@@ -62,7 +62,7 @@ and check [Enabling HTTPS](http://serverfault.com/questions/773217/asterisk-how-
 - Inbound call can be answered or ignored.
 - Notes can be captured while having call.
 
-<img src="https://cloud.githubusercontent.com/assets/15827609/22874646/42329ab0-f1ed-11e6-95ec-4f8063ce2153.png" width="700">
+<img src="https://cloud.githubusercontent.com/assets/15827609/23210900/7c624084-f925-11e6-8718-7c05e6e84e33.png" width="700">
 
 ###Call log###
 

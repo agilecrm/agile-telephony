@@ -103,40 +103,10 @@ and check [Enabling HTTPS](http://serverfault.com/questions/773217/asterisk-how-
 
 <img src="https://cloud.githubusercontent.com/assets/15827609/22878773/0709bb80-f201-11e6-988e-ccf3a594ceb2.png" width="700">
 
-<a name="CallTransfer"/>
-##Call Transfer##
-
-- Calls can be transfered to other configured users.
-
-<img src="https://cloud.githubusercontent.com/assets/15827609/22878929/a8b641ce-f201-11e6-94a8-39f5574d5064.png" width="700">
-
-<a name="CallConference"/>
-##Call Conference##
-
-- Configured user can be included in conference.
-
-<img src="https://cloud.githubusercontent.com/assets/15827609/22878870/6e1ec126-f201-11e6-8d6d-6a7b9ae68814.png" width="700">
-
-- Other Contacts can join the conference call by making call to same number.
-
-<img src="https://cloud.githubusercontent.com/assets/15827609/22878870/6e1ec126-f201-11e6-8d6d-6a7b9ae68814.png" width="700">
-
-<a name="VoiceMailDrops"/>
-##Voice Mail Drops##
-
-<img src="https://cloud.githubusercontent.com/assets/15827609/22879081/50b9b45a-f202-11e6-9459-18fdcd024bec.png" width="700">
-
-<a name="CallCampaings"/>
-##Call Campaings##
-
-<img src="https://cloud.githubusercontent.com/assets/15827609/22878980/d792ecfe-f201-11e6-9908-455307f494e5.png" width="700">
 
 <a name="CallHistory"/>
 ##Call History##
 
-###Call log from Provider###
-
-<img src="https://cloud.githubusercontent.com/assets/15827609/22880187/45f4aade-f207-11e6-8c9a-d2543cd45ba6.png" width="700">
 
 ###Timeline View###
 

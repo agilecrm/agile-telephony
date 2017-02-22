@@ -1,5 +1,5 @@
 
-#Use your phone to make calls using AgileCRM#
+#Use phone to make calls using AgileCRM#
 
 #####Table of Contents  
 [Introduction](#Introduction)
@@ -13,6 +13,8 @@
 
 <a name="Introduction"/>
 ##Introduction##
+AgileCRM automatically track calls made using any hardphone using Asterisk Widget.
+
 
 <a name="ConfigureWidget"/>
 ##Configure Widget##

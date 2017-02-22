@@ -30,7 +30,7 @@ AgileCRM automatically track calls made using any hardphone using Asterisk Widge
 
 Telephony Widgets can be configured in Preferences section.
 
-<img src="https://cloud.githubusercontent.com/assets/15827609/22871078/9020e192-f1d3-11e6-82d9-b01350b7867d.png" width="700">
+<img src="https://cloud.githubusercontent.com/assets/15827609/23210237/b919a5d8-f922-11e6-9671-708f4e99c5ad.png" width="700">
 
 <a name="ReceiveInboundCall"/>
 ##Receive Inbound Call##

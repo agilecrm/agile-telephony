@@ -2,13 +2,20 @@
 #Use phone to make calls using AgileCRM#
 
 #####Table of Contents  
-[Introduction](#Introduction) 
+[Introduction](#Introduction)
+
 [Configure Asterisk Server](#ConfigureWidget)  
+
 [Receive Calls](#ReceiveInboundCall)  
+
 [Make Calls](#MakeOutboudCall)  
+
 [Call Directly with Dialpad](#Dialpad)  
+
 [View Call History](#CallHistory)  
+
 [Analayse Call Reports](#CallReports)  
+
 [Consolidated Dashboard Reports](#DashboardReports)  
 
 <a name="Introduction"/>

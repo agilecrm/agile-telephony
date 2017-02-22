@@ -6,7 +6,7 @@
 
 [Setup Asterisk Widget](#ConfigureWidget)  
 
-[Configure Asterisk Server](#ConfigureWidget)  
+[Configure Asterisk Server](#ConfigureAsteriskServer)  
 
 [Receive Calls](#ReceiveInboundCall)  
 
@@ -32,6 +32,7 @@ Telephony Widgets can be configured in Preferences section.
 
 <img src="https://cloud.githubusercontent.com/assets/15827609/23210237/b919a5d8-f922-11e6-9671-708f4e99c5ad.png" width="700">
 
+<a name="ConfigureAsteriskServer"/>
 ##Configure Asterisk Server##
 
 ###A.Enabling Http on Asterisk###

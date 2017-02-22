@@ -4,6 +4,8 @@
 #####Table of Contents  
 [Introduction](#Introduction)
 
+[Setup Asterisk Widget](#ConfigureWidget)  
+
 [Configure Asterisk Server](#ConfigureWidget)  
 
 [Receive Calls](#ReceiveInboundCall)  
